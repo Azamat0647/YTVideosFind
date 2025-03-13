@@ -105,7 +105,7 @@ def write_videos(playlists: dict[str, list[Video]], file):
 
 
 
-api_key = "AIzaSyC3auZRbqqMWXzegiwdmiHUO4JfPQagZrU"
+api_key = "your api key"
 
 urls = {
     "search" : "https://www.googleapis.com/youtube/v3/search",
